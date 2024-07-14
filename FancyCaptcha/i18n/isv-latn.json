@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"IJzeren Jan"
+		]
+	},
+	"fancycaptcha-captcha": "Prověrka bezpečnosti",
+	"fancycaptcha-accountcreate": "Za ohranu našej viki protiv avtomatičnomu tvorjenju kont prosimo, že vvedete te slova, ktore vidite v slědujučem polju ([[Special:Captcha/help|podrobnosti]]):",
+	"fancycaptcha-imgcaptcha-ph": "Vpišite tekst, ktory vidite na obrazku",
+	"fancycaptcha-reload-text": "Osvěžiti"
+}
